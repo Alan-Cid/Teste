@@ -8,4 +8,4 @@ Status: Projeto iniciado.
 ALTERAÇÃO TESTE 2
 
 Segunda alteração realizada.
-Aprendendo a modificar arquivos.
+Status: Alteração realizada na Teste 2.
