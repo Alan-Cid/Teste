@@ -8,4 +8,4 @@ Status: Projeto iniciado.
 ALTERAÇÃO TESTE 1
 
 Primeira alteração realizada.
-Aprendendo a utilizar branches.
+Status: Alteração realizada na Main.
