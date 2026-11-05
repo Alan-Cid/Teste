@@ -4,3 +4,8 @@ Este projeto tem como objetivo praticar
 o uso do Git e GitHub.
 
 Status: Projeto iniciado.
+
+ALTERAÇÃO TESTE 2
+
+Segunda alteração realizada.
+Aprendendo a modificar arquivos.
