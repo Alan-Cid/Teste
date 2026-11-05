@@ -1,0 +1,6 @@
+PROJETO GIT E GITHUB
+
+Este projeto tem como objetivo praticar
+o uso do Git e GitHub.
+
+Status: Projeto iniciado.
